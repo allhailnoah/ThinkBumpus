@@ -1,4 +1,5 @@
 name: "#ThinkBumpus Church"
 markdown: redcarpet
 pygments: true
-permalink: :title
+baseurl: http://allhailnoah.github.io/ThinkBumpus
+permalink: /:title
